@@ -3,7 +3,6 @@ title: Home
 date: 2018-07-02 17:17:08 +0800
 name: Home
 when_1: ''
-published: false
 ---
 # home page ;)
 
