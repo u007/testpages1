@@ -12,6 +12,8 @@ This is a test
 
 image should appear above
 
+![](/uploads/Black Hat.jpg)
+
 ## sub section
 
 ### sub sub section
