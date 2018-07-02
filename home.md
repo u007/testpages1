@@ -10,7 +10,7 @@ This is a test
 
 ![](/uploads/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f546364705a775944506c5758432f67697068792e676966.gif)
 
-image should appear above
+image should appear above and below
 
 ![](/uploads/Black Hat.jpg)
 
