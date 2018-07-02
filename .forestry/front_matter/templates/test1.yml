@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: when_1
   label: when?
+pages:
+- _posts/home.md
