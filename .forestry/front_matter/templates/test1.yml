@@ -1,0 +1,10 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: name
+  name: name
+- type: datetime
+  name: when_1
+  label: when?
