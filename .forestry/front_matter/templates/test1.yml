@@ -9,4 +9,5 @@ fields:
   name: when_1
   label: when?
 pages:
+- home.md
 - _posts/home.md
